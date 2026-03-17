@@ -1,0 +1,10 @@
+# arquivos compilados 
+*.exe
+*.o
+*.out
+# pasta de build
+output/
+
+# arquivos temporários
+*.tmp
+*.log

@@ -1,6 +1,3 @@
-
-# student-grade-system-cpp
-
 # Student Grade System (C++)
 
 Programa simples feito em C++ para cadastrar alunos e calcular médias.
